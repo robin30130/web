@@ -1,0 +1,10 @@
+.about-text {
+    background-color: #fff; /* Fond blanc */
+    padding: 20px;
+    border-radius: 10px; /* Optionnel : ajoute un arrondi aux coins */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optionnel : ajoute une ombre */
+}
+
+.about-title {
+    color: white; /* Changer la couleur en blanc */
+}
